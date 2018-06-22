@@ -1,0 +1,28 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - Alamofire (4.4.0)
+  - Alamofire-Synchronous (4.0.0):
+    - Alamofire (~> 4.0)
+  - DatePickerDialog (1.1.7)
+  - SCLAlertView (0.7.0)
+  - SwiftLocation (2.0.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 4.4)
+  - Alamofire-Synchronous (~> 4.0)
+  - DatePickerDialog
+  - SCLAlertView
+  - SwiftLocation (= 2.0.1)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Alamofire-Synchronous: eedf1e6e961c3795a63c74990b3f7d9fbfac7e50
+  DatePickerDialog: bd5e7e92e4da2c6a8966b28d5f5d8f335d6c2c63
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SwiftLocation: 3c66807be3cc511d6b3496fcccd7ba05d839f23b
+
+PODFILE CHECKSUM: 0ea692c7b858a8cec454469eaf3985d1aa0e55ff
+
+COCOAPODS: 1.2.0
